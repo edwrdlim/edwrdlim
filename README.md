@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on sql techniques and python iterative functions for data mining!
 - 📫 How to reach me 
 
-@kyeddielim <-- instagram
-edwardlimky@outlook.com <-- email 
+@kyeddielim <-- instagram | edwardlimky@outlook.com <-- email 
 
 <!---
 edwrdlim/edwrdlim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
